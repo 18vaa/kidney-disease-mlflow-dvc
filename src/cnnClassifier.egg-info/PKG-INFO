@@ -1,3 +1,14 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small package for Kidney Disease Classification
+Home-page: https://github.com/18vaa/kidney-disease-mlflow-dvc
+Author: 18vaa
+Author-email: atharvajr184@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/18vaa/kidney-disease-mlflow-dvc/issues
+Platform: UNKNOWN
+
 # Kidney-Disease-Classification-MLFlow
 
 
@@ -25,4 +36,6 @@ conda activate cnncls
 ```bash
 pip install -r requirements.txt
 ```
+
+
 
